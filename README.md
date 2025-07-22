@@ -65,7 +65,7 @@ I'm **Harishna K**, a passionate and self-driven **Full Stack Developer** with e
 
 ## 🌐 Live Portfolio
 🔗 View Live
-https://portfolio-harishna-ks-projects.vercel.app/
+https://portfolio-h1gk.vercel.app/
 
 ---
 
