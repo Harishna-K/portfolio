@@ -2,6 +2,9 @@ import styled from 'styled-components';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import { Bio } from '../../data/constants';
 import { GitHub } from '@mui/icons-material';
+import EmailIcon from '@mui/icons-material/Email';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
+
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -97,6 +100,9 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.github} target="display"><GitHub /></SocialMediaIcon>
+          <SocialMediaIcon href={`mailto:${Bio.email}`} target="display"><EmailIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={`https://wa.me/${Bio.whatsapp}`} target="display"><WhatsAppIcon /></SocialMediaIcon>
+          
         </SocialMediaIcons>
         <Copyright>
           &copy; 2025 Harishna K. All rights reserved.
