@@ -8,10 +8,10 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/Harishna-K",
   resume:
-    "https://drive.google.com/file/d/1i6xpzDfwv95dj-xY_Wqku3xG4UnspM1P/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/harishna-kathirvel-434997260",
+    "https://drive.google.com/file/d/1iN1kHVn0F5OrRfLponHCQqmcDZ2GPiyj/view?usp=sharing",
+  github: "https://github.com/Harishna-K",
+  LinkedIn: "https://www.linkedin.com/in/harishna-kathirvel-434997260/",
   email: "harishna.gkc@gmail.com",
   whatsapp: 916382628979
 

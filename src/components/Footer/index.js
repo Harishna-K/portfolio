@@ -98,8 +98,8 @@ function Footer() {
           <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.github} target="display"><GitHub /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.LinkedIn} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={`mailto:${Bio.email}`} target="display"><EmailIcon /></SocialMediaIcon>
           <SocialMediaIcon href={`https://wa.me/${Bio.whatsapp}`} target="display"><WhatsAppIcon /></SocialMediaIcon>
           
